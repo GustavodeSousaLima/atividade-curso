@@ -1,0 +1,144 @@
+body {
+    background-image: linear-gradient(90deg, rgb(127, 112, 202),rgb(8, 15, 156),rgb(151, 136, 224));
+}
+
+h1 {
+    position: absolute;
+    color: #ffffff;
+    top: -15%;
+    left: 28%;
+}
+
+#titulo {
+    background-color: #00014f;
+    position: absolute;
+    height: 10%;
+    width: 40%;
+    left: 30%;
+    border-radius: 10px;
+    border: solid 1px white;
+}
+
+#nome {
+    background-color: #6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 15%;
+    left: 35%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#nascimento {
+    background-color: #6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 28%;
+    left: 19%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#email {
+    background-color:#6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 28%;
+    left: 50%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#celular {
+    background-color: #6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 41%;
+    left: 35%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#cidade {
+    background-color: #6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 54%;
+    left: 19%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#estado {
+    background-color: #6864d7;
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    top: 54%;
+    left: 50%;
+    border-radius: 20px;
+    border: solid 1px white;
+}
+
+#p1 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(245, 152, 12);
+
+}
+
+#p2 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(18, 216, 107);
+
+}
+
+#p3 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(230, 241, 15);
+
+}
+
+#p4 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(255, 72, 91);
+
+}
+
+#p5 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(255, 16, 203);
+
+}
+
+#p6 {
+    text-align: center;
+    font-size: 21px;
+    color: rgb(255, 16, 203);
+
+}
+
+#sermais{
+    position: absolute;
+    top: 70%;
+    left: 29%;
+    border-radius: 90px;
+    border:solid 3px #ffffff;
+}
+#accenture{
+    position: absolute;
+    top: 70%;
+    left: 54%;
+    border-radius: 10px;
+    height: 90px;
+    width: 300px;
+}
